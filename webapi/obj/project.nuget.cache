@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "fi4+C7dJot+llOY2ucxFap67wdCiOCRPgqZuTrRJxVvKYvLyHJh9HCOU3/nhFwro9FxpXWtpMsn2+Eqmqfw5VA==",
+  "success": true,
+  "projectFilePath": "/home/ricardo/Estudos/estudos-dotnet/webapi/webapi.csproj",
+  "expectedPackageFiles": [
+    "/home/ricardo/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/ricardo/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/ricardo/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/home/ricardo/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/home/ricardo/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/home/ricardo/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "/home/ricardo/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

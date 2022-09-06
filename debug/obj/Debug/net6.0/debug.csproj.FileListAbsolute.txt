@@ -1,0 +1,15 @@
+/home/ricardo/Estudos/estudos-dotnet/debug/bin/Debug/net6.0/debug
+/home/ricardo/Estudos/estudos-dotnet/debug/bin/Debug/net6.0/debug.deps.json
+/home/ricardo/Estudos/estudos-dotnet/debug/bin/Debug/net6.0/debug.runtimeconfig.json
+/home/ricardo/Estudos/estudos-dotnet/debug/bin/Debug/net6.0/debug.dll
+/home/ricardo/Estudos/estudos-dotnet/debug/bin/Debug/net6.0/ref/debug.dll
+/home/ricardo/Estudos/estudos-dotnet/debug/bin/Debug/net6.0/debug.pdb
+/home/ricardo/Estudos/estudos-dotnet/debug/obj/Debug/net6.0/debug.csproj.AssemblyReference.cache
+/home/ricardo/Estudos/estudos-dotnet/debug/obj/Debug/net6.0/debug.GeneratedMSBuildEditorConfig.editorconfig
+/home/ricardo/Estudos/estudos-dotnet/debug/obj/Debug/net6.0/debug.AssemblyInfoInputs.cache
+/home/ricardo/Estudos/estudos-dotnet/debug/obj/Debug/net6.0/debug.AssemblyInfo.cs
+/home/ricardo/Estudos/estudos-dotnet/debug/obj/Debug/net6.0/debug.csproj.CoreCompileInputs.cache
+/home/ricardo/Estudos/estudos-dotnet/debug/obj/Debug/net6.0/debug.dll
+/home/ricardo/Estudos/estudos-dotnet/debug/obj/Debug/net6.0/ref/debug.dll
+/home/ricardo/Estudos/estudos-dotnet/debug/obj/Debug/net6.0/debug.pdb
+/home/ricardo/Estudos/estudos-dotnet/debug/obj/Debug/net6.0/debug.genruntimeconfig.cache
