@@ -1,0 +1,15 @@
+/home/ricardo/Estudos/estudos-dotnet/ExemplesProps/bin/Debug/net6.0/ExemplesProps
+/home/ricardo/Estudos/estudos-dotnet/ExemplesProps/bin/Debug/net6.0/ExemplesProps.deps.json
+/home/ricardo/Estudos/estudos-dotnet/ExemplesProps/bin/Debug/net6.0/ExemplesProps.runtimeconfig.json
+/home/ricardo/Estudos/estudos-dotnet/ExemplesProps/bin/Debug/net6.0/ExemplesProps.dll
+/home/ricardo/Estudos/estudos-dotnet/ExemplesProps/bin/Debug/net6.0/ref/ExemplesProps.dll
+/home/ricardo/Estudos/estudos-dotnet/ExemplesProps/bin/Debug/net6.0/ExemplesProps.pdb
+/home/ricardo/Estudos/estudos-dotnet/ExemplesProps/obj/Debug/net6.0/ExemplesProps.csproj.AssemblyReference.cache
+/home/ricardo/Estudos/estudos-dotnet/ExemplesProps/obj/Debug/net6.0/ExemplesProps.GeneratedMSBuildEditorConfig.editorconfig
+/home/ricardo/Estudos/estudos-dotnet/ExemplesProps/obj/Debug/net6.0/ExemplesProps.AssemblyInfoInputs.cache
+/home/ricardo/Estudos/estudos-dotnet/ExemplesProps/obj/Debug/net6.0/ExemplesProps.AssemblyInfo.cs
+/home/ricardo/Estudos/estudos-dotnet/ExemplesProps/obj/Debug/net6.0/ExemplesProps.csproj.CoreCompileInputs.cache
+/home/ricardo/Estudos/estudos-dotnet/ExemplesProps/obj/Debug/net6.0/ExemplesProps.dll
+/home/ricardo/Estudos/estudos-dotnet/ExemplesProps/obj/Debug/net6.0/ref/ExemplesProps.dll
+/home/ricardo/Estudos/estudos-dotnet/ExemplesProps/obj/Debug/net6.0/ExemplesProps.pdb
+/home/ricardo/Estudos/estudos-dotnet/ExemplesProps/obj/Debug/net6.0/ExemplesProps.genruntimeconfig.cache
