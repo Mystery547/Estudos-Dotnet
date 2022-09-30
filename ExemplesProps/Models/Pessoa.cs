@@ -10,10 +10,7 @@ namespace ExemplesProps.Models
         private string _nome;
         public string Nome
         {
-            get
-            {
-                return _nome;
-            }
+            get => _nome.ToUpper(); // body expression
 
             set
             {
